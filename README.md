@@ -139,6 +139,4 @@ Only **2** problems need to be completed for full credit. Pick the ones that sta
 
 Same as usual where your passing tests will be how you are graded!
 
-
-
-
+DELETE THE FILE AND THE TEST FILE FOR THE PROBLEM YOU DO NOT WANT TO COMPLETE
